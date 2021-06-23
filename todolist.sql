@@ -42,9 +42,9 @@ CREATE TABLE `list` (
 --
 
 INSERT INTO `list` (`id`, `datumZadani`, `cinnost`, `datumUkonceni`, `info`, `login`, `splneno`) VALUES
-(41, '2021-06-23', 'Uklidit', '2021-06-25', 'Vytřít, Umít okna a vysát.', 'test', 'NE'),
+(41, '2021-06-23', 'Uklidit', '2021-06-25', 'Vytřít, Umýt okna a vysát.', 'test', 'NE'),
 (42, '2021-06-23', 'nakoupit', '2021-06-22', 'Jahody', 'test', 'ANO'),
-(43, '2021-06-23', 'Jít na bazén', '2021-07-03', 'V porubě od 11:00 do 13:00.', 'login', 'NE');
+(43, '2021-06-23', 'Jít na bazén', '2021-07-03', 'V Porubě od 11:00 do 13:00.', 'login', 'NE');
 
 -- --------------------------------------------------------
 
